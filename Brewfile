@@ -9,8 +9,12 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew direnv
 brew git
+brew heroku-toolbelt
 brew mackup
+brew nodebrew
+brew rbenv
 brew vim
 brew zsh
 
@@ -20,6 +24,7 @@ cask alfred
 cask atom
 cask bettertouchtool
 cask charles
+cask dockertoolbox
 cask dropbox
 cask firefox
 cask google-chrome
