@@ -41,8 +41,7 @@ brew vim
 brew zsh
 
 # App Store applications
-appstore GarageBand
-appstore iMovie
-appstore Keynote
-appstore Numbers
-appstore Pages
+appstore Transmit
+appstore DaisyDisk
+appstore CodeRunner
+appstore BetterSnapTool
