@@ -4,15 +4,6 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
-
-## caskroom/versions
-tap caskroom/versions
-
-## rcmdnk/file
-tap rcmdnk/file
-brew brew-file
-
-# Cask applications
 cask 1password
 cask alfred
 cask atom
@@ -26,9 +17,16 @@ cask iterm2
 cask karabiner
 cask scroll-reverser
 cask sequel-pro
-cask sublime-text3
 cask vagrant
 cask virtualbox
+
+## caskroom/versions
+tap caskroom/versions
+cask sublime-text3
+
+## rcmdnk/file
+tap rcmdnk/file
+brew brew-file
 
 # Other Homebrew packages
 brew direnv
@@ -37,6 +35,7 @@ brew heroku-toolbelt
 brew mackup
 brew nodebrew
 brew rbenv
+brew tig
 brew vim
 brew zsh
 
@@ -45,3 +44,6 @@ appstore Transmit
 appstore DaisyDisk
 appstore CodeRunner
 appstore BetterSnapTool
+appstore Cheetah3D
+appstore Integrity
+appstore The Unarchiver
