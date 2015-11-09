@@ -17,6 +17,7 @@ cask iterm2
 cask karabiner
 cask scroll-reverser
 cask sequel-pro
+cask slack
 cask vagrant
 cask virtualbox
 
@@ -29,12 +30,18 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew autoconf
 brew direnv
+brew gdbm
 brew git
 brew heroku-toolbelt
 brew mackup
 brew nodebrew
+brew openssl
+brew pcre
+brew pkg-config
 brew rbenv
+brew ruby-build
 brew tig
 brew vim
 brew zsh
