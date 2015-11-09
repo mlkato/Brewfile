@@ -12,6 +12,24 @@ tap caskroom/versions
 tap rcmdnk/file
 brew brew-file
 
+# Cask applications
+cask 1password
+cask alfred
+cask atom
+cask bettertouchtool
+cask charles
+cask dropbox
+cask firefox
+cask google-chrome
+cask google-japanese-ime
+cask iterm2
+cask karabiner
+cask scroll-reverser
+cask sequel-pro
+cask sublime-text3
+cask vagrant
+cask virtualbox
+
 # Other Homebrew packages
 brew direnv
 brew git
