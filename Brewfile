@@ -28,6 +28,10 @@ cask virtualbox
 tap caskroom/versions
 cask sublime-text3
 
+## homebrew/science
+tap homebrew/science
+brew opencv
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
@@ -38,9 +42,11 @@ brew android-ndk
 brew ant
 brew autoconf
 brew direnv
+brew ffmpeg
 brew gdbm
 brew git
 brew heroku-toolbelt
+brew imagemagick
 brew libevent
 brew mackup
 brew openssl
