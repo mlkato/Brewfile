@@ -20,6 +20,7 @@ cask sequel-pro
 cask slack
 cask vagrant
 cask virtualbox
+cask java
 
 ## caskroom/versions
 tap caskroom/versions
