@@ -46,6 +46,7 @@ brew rbenv
 brew readline
 brew ruby-build
 brew tig
+brew tmux
 brew vim
 brew zsh
 
