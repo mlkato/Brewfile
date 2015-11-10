@@ -14,13 +14,13 @@ cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
+cask java
 cask karabiner
 cask scroll-reverser
 cask sequel-pro
 cask slack
 cask vagrant
 cask virtualbox
-cask java
 
 ## caskroom/versions
 tap caskroom/versions
@@ -48,10 +48,15 @@ brew vim
 brew zsh
 
 # App Store applications
-appstore Transmit
-appstore DaisyDisk
-appstore CodeRunner
 appstore BetterSnapTool
 appstore Cheetah3D
+appstore CodeRunner
+appstore DaisyDisk
+appstore GarageBand
+appstore iMovie
 appstore Integrity
+appstore Keynote
+appstore Numbers
+appstore Pages
 appstore The Unarchiver
+appstore Transmit
