@@ -20,6 +20,7 @@ cask karabiner
 cask scroll-reverser
 cask sequel-pro
 cask slack
+cask sourcetree
 cask vagrant
 cask virtualbox
 
