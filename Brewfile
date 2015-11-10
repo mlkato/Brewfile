@@ -43,11 +43,11 @@ brew openssl
 brew pcre
 brew pkg-config
 brew rbenv
+brew readline
 brew ruby-build
 brew tig
 brew vim
 brew zsh
-brew readline
 
 # App Store applications
 appstore BetterSnapTool
