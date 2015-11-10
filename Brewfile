@@ -37,6 +37,7 @@ brew direnv
 brew gdbm
 brew git
 brew heroku-toolbelt
+brew libevent
 brew mackup
 brew nodebrew
 brew openssl
