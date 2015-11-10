@@ -54,9 +54,6 @@ brew tmux
 brew vim
 brew zsh
 
-# Cask applications
-cask vagrant
-
 # App Store applications
 appstore BetterSnapTool
 appstore Cheetah3D
