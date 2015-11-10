@@ -9,6 +9,7 @@ cask alfred
 cask atom
 cask bettertouchtool
 cask charles
+cask dockertoolbox
 cask dropbox
 cask firefox
 cask google-chrome
