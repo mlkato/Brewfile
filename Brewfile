@@ -32,6 +32,9 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew android
+brew android-ndk
+brew ant
 brew autoconf
 brew direnv
 brew gdbm
@@ -39,7 +42,6 @@ brew git
 brew heroku-toolbelt
 brew libevent
 brew mackup
-brew nodebrew
 brew openssl
 brew pcre
 brew pkg-config
