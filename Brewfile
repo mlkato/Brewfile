@@ -25,6 +25,7 @@ cask slack
 cask sourcetree
 cask vagrant
 cask virtualbox
+cask zoomus
 
 ## caskroom/versions
 tap caskroom/versions
