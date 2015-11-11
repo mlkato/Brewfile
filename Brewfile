@@ -6,11 +6,13 @@ tap caskroom/cask
 brew brew-cask
 cask 1password
 cask alfred
+cask android-studio
 cask atom
 cask bettertouchtool
 cask charles
 cask dockertoolbox
 cask dropbox
+cask fabric
 cask firefox
 cask google-chrome
 cask google-japanese-ime
@@ -52,6 +54,7 @@ brew mackup
 brew openssl
 brew pcre
 brew pkg-config
+brew python
 brew rbenv
 brew readline
 brew ruby-build
