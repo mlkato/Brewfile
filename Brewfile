@@ -19,12 +19,14 @@ cask google-japanese-ime
 cask iterm2
 cask java
 cask karabiner
+cask mono-mdk
 cask scroll-reverser
 cask sequel-pro
 cask slack
 cask sourcetree
 cask vagrant
 cask virtualbox
+cask xamarin-studio
 cask zoomus
 
 ## caskroom/versions
