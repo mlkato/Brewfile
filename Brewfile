@@ -54,6 +54,7 @@ brew heroku-toolbelt
 brew imagemagick
 brew libevent
 brew mackup
+brew mongo
 brew openssl
 brew pcre
 brew pkg-config
