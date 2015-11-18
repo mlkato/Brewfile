@@ -20,6 +20,7 @@ cask iterm2
 cask java
 cask karabiner
 cask mono-mdk
+cask qq
 cask scroll-reverser
 cask sequel-pro
 cask slack
