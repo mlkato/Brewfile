@@ -20,6 +20,7 @@ cask iterm2
 cask java
 cask karabiner
 cask mono-mdk
+cask nwjs
 cask qq
 cask scroll-reverser
 cask sequel-pro
@@ -27,6 +28,7 @@ cask slack
 cask sourcetree
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask xamarin-studio
 cask zoomus
 
