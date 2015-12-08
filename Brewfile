@@ -24,6 +24,7 @@ cask nwjs
 cask qq
 cask scroll-reverser
 cask sequel-pro
+cask skype
 cask slack
 cask sourcetree
 cask vagrant
@@ -64,6 +65,7 @@ brew pkg-config
 brew python
 brew rbenv
 brew readline
+brew redis
 brew ruby-build
 brew tig
 brew tmux
