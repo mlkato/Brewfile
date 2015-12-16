@@ -48,6 +48,7 @@ brew brew-file
 # Other Homebrew packages
 brew android
 brew android-ndk
+brew ansible
 brew ant
 brew autoconf
 brew direnv
